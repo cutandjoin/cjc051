@@ -1,5 +1,5 @@
 REM DIRINDEX 1\4,1\2\5,1\2\6,1\3\7\9,1\3\7\10,1\3\8\11,1\3\8\12
-REM DIRNAME cjc051,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11
+REM DIRNAME folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11,folder12
 TITLE ""
 FILE "CD-ATrack11.mp3" MP3
   TRACK 01 AUDIO
